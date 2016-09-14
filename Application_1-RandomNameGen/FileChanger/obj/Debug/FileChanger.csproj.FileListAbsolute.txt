@@ -1,0 +1,9 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\bin\Debug\FileChanger.exe.config
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\bin\Debug\FileChanger.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\bin\Debug\FileChanger.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.TextAdder.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\FileChanger\obj\Debug\FileChanger.pdb

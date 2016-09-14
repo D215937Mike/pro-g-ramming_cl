@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\bin\Debug\NameGen.exe.config
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\bin\Debug\NameGen.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\bin\Debug\NameGen.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\obj\Debug\NameGen.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\obj\Debug\NameGen.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\DesktopGuideFolder\NameGen\NameGen\obj\Debug\NameGen.pdb
